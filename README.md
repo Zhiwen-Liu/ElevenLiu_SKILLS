@@ -1,4 +1,4 @@
-# ElevenLiu_SKILLS
+# KerminalSKILLS
 
 昇腾（Ascend）NPU 相关 Agent Skills 合集。
 
